@@ -12,3 +12,7 @@
 <ul>
   <li><a href='https://medium.com/@zenestekin/behind-the-scenes-of-react-visual-dom-real-dom-dd985d8488c1'>Behind The Scenes Of React (Visual DOM - Real DOM)</a></li>
 </ul>
+
+<p>🔗  Connect with me</p>
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/zenestekin/) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@zenestekin) 
