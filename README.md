@@ -10,8 +10,8 @@
 <p>📕  <strong>Latest Blog Posts</strong></p>
 
 <ul>
-  <li><a href='https://medium.com/@zenestekin/631b3dd05f6f' target='_blank'>Async and Defer Explained</a></li>
-  <li><a href='https://medium.com/@zenestekin/behind-the-scenes-of-react-visual-dom-real-dom-dd985d8488c1' target='_blank'>Behind The Scenes Of React (Visual DOM - Real DOM)</a></li>
+  <li><a href='https://medium.com/@zenestekin/631b3dd05f6f'>Async and Defer Explained</a></li>
+  <li><a href='https://medium.com/@zenestekin/behind-the-scenes-of-react-visual-dom-real-dom-dd985d8488c1'>Behind The Scenes Of React (Visual DOM - Real DOM)</a></li>
 </ul>
 
 <p>🔗  Connect with me</p>
