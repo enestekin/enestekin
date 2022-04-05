@@ -2,7 +2,7 @@
 
 <ul>
   <li>🔭  I’m currently working on something cool 😉</li>
-  <li>🌱  I’m currently learning Docker</li>
+  <li>🌱  I’m currently learning MERN stack</li>
   <li>📫  How to reach me: zenestekin@gmail.com</li>
   <li>⚡ Fun fact: I love cats</li>
 </ul>
