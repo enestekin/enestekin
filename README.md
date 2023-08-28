@@ -1,12 +1,5 @@
 ### Hi there 👋, I'm a Frontend Developer
 
-<ul>
-  <li>🔭  I’m currently working on something cool 😉</li>
-  <li>🌱  I’m currently learning Typescript and Unit Test</li>
-  <li>📫  How to reach me: zenestekin@gmail.com</li>
-  <li>⚡ Fun fact: I love cats</li>
-</ul>
-
 <p>📕  <strong>Latest Blog Posts</strong></p>
 
 <ul>
